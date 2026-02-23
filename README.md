@@ -1,4 +1,4 @@
-Hi! my is Aarkesh Sharma currently pursing B.Tech in Computer Science and Engineering from ABES engineering college;
+Hi! I am Aarkesh Sharma currently pursing B.Tech in Computer Science and Engineering from ABES engineering college;
 
 <!--
 **AarkeshSharma79/AarkeshSharma79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
